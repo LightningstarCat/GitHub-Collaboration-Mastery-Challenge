@@ -52,7 +52,7 @@ Choose **one or more** tasks from below:
 ## Repository Structure
 ```
 📦 github-collab-challenge
- ┣ 📂 code
+ ┣ 📂 scripts
  ┃ ┣ 📜 script.py      # Simple Python script for improvements
  ┣ 📂 docs
  ┃ ┣ 📜 guide.md       # Documentation for improvements
