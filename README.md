@@ -17,7 +17,7 @@ Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to ma
    git remote add upstream https://github.com/TheEmeraldHack/GitHub-Collaboration-Mastery-Challenge.git
    ```
 
-### **2️ Explore & Plan (10 min)**
+### **2️ Explore & Plan**
 - Read the **README.md** and understand the structure.
 - Browse the **Issues tab** and pick one labeled **"Collab Challenge"**.
 - Create a feature branch for your work.
@@ -25,7 +25,7 @@ Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to ma
    git checkout -b feature-yourname
    ```
 
-### **3️ Make a Meaningful Contribution (7 min)**
+### **3️ Make a Meaningful Contribution**
 Choose **one or more** tasks from below:
 - **Add yourself** to `contributors.json`
 - **Fix a typo** or improve documentation in `docs/`
@@ -44,7 +44,7 @@ Choose **one or more** tasks from below:
    git push origin feature-yourname
    ```
 
-### **5️ Submit a Pull Request (5 min)**
+### **5️ Submit a Pull Request**
 1. Open a pull request from your fork’s **feature branch** to the **main** branch of this repo.
 2. Write a clear title and description explaining your changes.
 3. Engage by reviewing at least **one other PR** and leaving constructive feedback.
