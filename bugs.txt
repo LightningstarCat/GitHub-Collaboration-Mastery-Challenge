@@ -1,0 +1,5 @@
+1. script.py: The greet() function does not handle empty input.
+2. The script currently does not allow the user to exit gracefully.
+3. Missing error handling for non-string inputs.
+
+Add more if needed
