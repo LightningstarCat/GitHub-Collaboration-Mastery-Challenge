@@ -28,12 +28,12 @@ Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to ma
 ### **3️ Make a Meaningful Contribution**
 Choose **one or more** tasks from below:
 - **Add yourself** to `contributors.json`
-- **Fix a typo** or improve documentation in `docs/`
+- **Write about something you learned** learnings.md in `docs/`
 - **Solve a bug** in `bugs.txt` or `scripts/`
 - **Enhance a feature** in `features.md`
 - **Refactor** or optimize a small section of code
 
-### **4️ Commit & Push (5 min)**
+### **4️ Commit & Push **
 1. Stage and commit your changes with a meaningful message.
    ```bash
    git add .
