@@ -29,7 +29,7 @@ Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to ma
 Choose **one or more** tasks from below:
 - **Add yourself** to `contributors.json`
 - **Fix a typo** or improve documentation in `docs/`
-- **Solve a bug** in `bugs.txt` or `code/`
+- **Solve a bug** in `bugs.txt` or `scripts/`
 - **Enhance a feature** in `features.md`
 - **Refactor** or optimize a small section of code
 
