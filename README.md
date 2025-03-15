@@ -1,6 +1,6 @@
-# 🚀 GitHub Collaboration Mastery Challenge
+# GitHub Collaboration Mastery Challenge
 
-## 📝 Overview
+## Overview
 Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to make a meaningful contribution by submitting a **pull request (PR)** following proper GitHub collaboration practices. But there's a twist—you must take **at least 29 minutes** to complete your PR by following best practices. 🕒
 
 ## Challenge Steps
@@ -49,7 +49,7 @@ Choose **one or more** tasks from below:
 2. Write a clear title and description explaining your changes.
 3. Engage by reviewing at least **one other PR** and leaving constructive feedback.
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 📦 github-collab-challenge
  ┣ 📂 code
@@ -62,7 +62,7 @@ Choose **one or more** tasks from below:
  ┣ 📜 README.md        # This file (Instructions)
 ```
 
-## 🎯 Completion Criteria
+## Completion Criteria
 ✅ Your PR follows contribution guidelines.
 ✅ It includes a meaningful change.
 ✅ You followed proper GitHub collaboration practices.
