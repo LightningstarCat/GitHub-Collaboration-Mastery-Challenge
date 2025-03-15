@@ -1,7 +1,7 @@
 # GitHub Collaboration Mastery Challenge
 
 ## Overview
-Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to make a meaningful contribution by submitting a **pull request (PR)** following proper GitHub collaboration practices. But there's a twist—you must take **at least 29 minutes** to complete your PR by following best practices.
+Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to make a meaningful contribution by submitting a **pull request (PR)** following proper GitHub collaboration practices. 
 
 ## Challenge Steps
 
