@@ -1,7 +1,7 @@
 # GitHub Collaboration Mastery Challenge
 
 ## Overview
-Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to make a meaningful contribution by submitting a **pull request (PR)** following proper GitHub collaboration practices. But there's a twist—you must take **at least 29 minutes** to complete your PR by following best practices. 🕒
+Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to make a meaningful contribution by submitting a **pull request (PR)** following proper GitHub collaboration practices. But there's a twist—you must take **at least 29 minutes** to complete your PR by following best practices.
 
 ## Challenge Steps
 
@@ -9,12 +9,12 @@ Welcome to the **GitHub Collaboration Mastery Challenge**! Your mission is to ma
 1. Fork this repository to your GitHub account.
 2. Clone your fork to your local machine.
    ```bash
-   git clone https://github.com/your-username/github-collab-challenge.git
+   git clone https://github.com/TheEmeraldHack/GitHub-Collaboration-Mastery-Challenge.git
    cd github-collab-challenge
    ```
 3. Add the original repository as an upstream remote.
    ```bash
-   git remote add upstream https://github.com/original-owner/github-collab-challenge.git
+   git remote add upstream https://github.com/TheEmeraldHack/GitHub-Collaboration-Mastery-Challenge.git
    ```
 
 ### **2️ Explore & Plan (10 min)**
