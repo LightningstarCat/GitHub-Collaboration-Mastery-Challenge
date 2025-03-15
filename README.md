@@ -55,7 +55,7 @@ Choose **one or more** tasks from below:
  ┣ 📂 scripts
  ┃ ┣ 📜 script.py      # Simple Python script for improvements
  ┣ 📂 docs
- ┃ ┣ 📜 guide.md       # Documentation for improvements
+ ┃ ┣ 📜 learnings.md       # Documentation for improvements
  ┣ 📜 contributors.json # Participants add their names here
  ┣ 📜 bugs.txt         # List of minor bugs to fix
  ┣ 📜 features.md      # Suggest and implement new features
